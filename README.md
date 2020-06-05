@@ -1,2 +1,1 @@
-# signalwire
-all my scripts related to signalwire
+[See Wiki](https://github.com/joshebosh/signalwire_scripts/wiki)
